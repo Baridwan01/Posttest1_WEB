@@ -1,7 +1,8 @@
 NAMA : Zaki Baridwan Sauqi
 NIM : 2109116036
 
-Website ini tentang penyediaan informasi dan pemandu wisata yang ada dikota samarinda
+Website ini tentang penyediaan informasi dan pemandu wisata yang ada dikota samarinda.
+
 Isi halaman :
 - Pada halaman Home menampilkan profil kota Samarinda dan informasi tentang apa saja yang ada di samarinda ( hanya beberapa)
 - Pada halaman contact menampilkan kontak dan Sosial Media saya pribadi (Whatsapp, Instagram, dan Youtube)
